@@ -1,6 +1,6 @@
 # Author
-Simon McCormack 
 Magnus mc Magnus
+Simon McCormack
 
 # Title
 # Literature overview of water vapour cycling in Ytterbium disilicate Environmental barrier coatings
