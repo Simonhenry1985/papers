@@ -20,3 +20,6 @@ Loads of time in a furnace innit
 
 # conclusions
 Need more work to be done and stuff
+
+# Figures
+pics and tings
