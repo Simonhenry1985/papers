@@ -1,6 +1,7 @@
 # Author
-Magnus mc Magnus
-Simon McCormack
+
+Magnus mc Magnus, castle greyskull
+Simon McCormack, university manchester
 
 # Title
 # Literature overview of water vapour cycling in Ytterbium disilicate Environmental barrier coatings
