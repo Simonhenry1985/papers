@@ -10,3 +10,6 @@ There’s a limited amount of data due to the recent development of the EBC system
 
 # Summary
 There papers show that the follwing issues are still unknown: oxidation pathways, thermochemcial stability and effect of doping elements.
+
+#Methodology
+We use XRD and SEM to analyse the microstructural changes during the steam cycling
